@@ -1,0 +1,5 @@
+[ 2023-07-31 16:59:57,576 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-31 16:59:57,576 ] 187 werkzeug - INFO -  * Debugger PIN: 175-078-640
+[ 2023-07-31 17:00:23,866 ] 187 werkzeug - INFO - 127.0.0.1 - - [31/Jul/2023 17:00:23] "GET / HTTP/1.1" 200 -
+[ 2023-07-31 17:00:23,972 ] 187 werkzeug - INFO - 127.0.0.1 - - [31/Jul/2023 17:00:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-07-31 17:01:08,187 ] 187 werkzeug - INFO -  * Detected change in 'C:\\DiamondPrice\\app.py', reloading
